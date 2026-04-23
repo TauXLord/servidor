@@ -1,2 +1,2 @@
 # servidor
-minecraft server teste
+/workspaces/servidor/minecraft/run_crafty.sh
