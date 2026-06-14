@@ -6,3 +6,5 @@ servidor-mc/minecraft/crash-reports/
 servidor-mc/minecraft/libraries/
 servidor-mc/minecraft/versions/
 servidor-mc/minecraft/cache/
+servidor-mc/minecraft/.fabric/
+servidor-mc/minecraft/fabric-server-mc.*.jar
